@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-10-03T01:52:37+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/ulian/HW2_elan.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../Users/ulian/HW2_elan.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:368dedd8-0a83-4829-886b-0eac3e794df8</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">13</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="903606"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="906495"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="906505"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="908507"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="908515"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="909936"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="910384"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="911570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="911990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="912911"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="912929"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="914701"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="915182"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="917361"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="918000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="918583"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="918929"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="923509"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="924010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="927828"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="928000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="928932"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="929323"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="931005"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="931101"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="933759"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="text@knm2006m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>всё / жизнь за последний месяц жё = жёстко / ээ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>меняется / в плане того что типо аа</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>ну были вот эти вот все банальные</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>учебные дни в школе</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>теперь есть</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>небанальные / пока что</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>э / дни / в / университете</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>нуу</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>обычно / у нас пара что-то типо третья / в среднем / у нас три = к третьей паре</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>что на самом деле вроде хорошо потому что можно типо / понежиться / поспать там</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>побольше</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>аа / но</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>в чем минус? во-первых / то что у тебя летит уже режим</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
